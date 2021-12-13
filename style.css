@@ -1,0 +1,19 @@
+.wrapper{
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: salmon;
+    padding: 10px 20px;
+}
+button{
+    padding: 5px 20px;
+    border-radius: 3px;;
+    color: white;
+    background-color: salmon;
+    font-weight: bold;
+    outline: none;
+}
+input{
+    display: inline-block;
+    height: 25px;
+}
